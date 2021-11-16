@@ -1,0 +1,20 @@
+C:\Users\Step_student.IT-STEP\source\repos\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+C:\Users\Step_student.IT-STEP\source\repos\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+C:\Users\Step_student.IT-STEP\source\repos\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+C:\Users\Step_student.IT-STEP\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.AssemblyReference.cache
+C:\Users\Step_student.IT-STEP\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.Form1.resources
+C:\Users\Step_student.IT-STEP\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Users\Step_student.IT-STEP\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+C:\Users\Step_student.IT-STEP\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Step_student.IT-STEP\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+C:\Users\Step_student.IT-STEP\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+D:\RPO\Егор Агальцов\C#\WinForms\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+D:\RPO\Егор Агальцов\C#\WinForms\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+D:\RPO\Егор Агальцов\C#\WinForms\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+D:\RPO\Егор Агальцов\C#\WinForms\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.AssemblyReference.cache
+D:\RPO\Егор Агальцов\C#\WinForms\TextEditor\TextEditor\obj\Debug\TextEditor.Form1.resources
+D:\RPO\Егор Агальцов\C#\WinForms\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+D:\RPO\Егор Агальцов\C#\WinForms\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+D:\RPO\Егор Агальцов\C#\WinForms\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+D:\RPO\Егор Агальцов\C#\WinForms\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+D:\RPO\Егор Агальцов\C#\WinForms\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
